@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1-Padilla", "Parcial1-Padilla\Parcial1-Padilla.csproj", "{E32D9F73-AE2D-4CDF-BA95-5968CAC2E3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{91ABAD11-BC74-4316-AC0F-0032D10F04B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{8B3B9889-3DB6-4553-B056-45C0FBD61C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32D9F73-AE2D-4CDF-BA95-5968CAC2E3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32D9F73-AE2D-4CDF-BA95-5968CAC2E3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32D9F73-AE2D-4CDF-BA95-5968CAC2E3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32D9F73-AE2D-4CDF-BA95-5968CAC2E3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91ABAD11-BC74-4316-AC0F-0032D10F04B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ABAD11-BC74-4316-AC0F-0032D10F04B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91ABAD11-BC74-4316-AC0F-0032D10F04B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91ABAD11-BC74-4316-AC0F-0032D10F04B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3B9889-3DB6-4553-B056-45C0FBD61C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3B9889-3DB6-4553-B056-45C0FBD61C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3B9889-3DB6-4553-B056-45C0FBD61C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3B9889-3DB6-4553-B056-45C0FBD61C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
